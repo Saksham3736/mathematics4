@@ -4,7 +4,7 @@
 
 ## Syllabus
 
-- Unit 2: __Ordinary Differential Equation__
+- Unit 4: __Ordinary Differential Equation__
   -  Exact and Non-exact differential equations.
 
 | Content Table |
