@@ -7,26 +7,7 @@
 - Unit 4: __Ordinary Differential Equation__
   -  Exact and Non-exact differential equations.
 
-| Content Table |
-|:-------:|
-| [Question 1](#question-1) |
-| [Question 2](#question-2) |
-| [Question 3](#question-3) |
-| [Question 4](#question-4) |
-| [Question 5](#question-5) |
-| [Question 6](#question-6) |
-| [Question 7](#question-7) |
-| [Question 8](#question-8) |
-| [Question 9](#question-9) |
-| [Question 10](#question-10) |
-| [Question 11](#question-11) |
-| [Question 12](#question-12) |
-| [Question 13](#question-13) |
-| [Question 14](#question-14) |
-| [Question 15](#question-15) |
-| [Question 16](#question-16) |
-| [Question 17](#question-17) |
-| [Question 18](#question-18) |
+
 
 ### Question 1:
 
