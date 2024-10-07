@@ -109,7 +109,7 @@ $$x^3y^3(2ydx+xdy)-(5ydx+7xdy)=0$$
 
 ### Other Assignments:
 
-|[Assignment 1](https;//saksham3736.github.io/mathematics/)|
+|[Assignment 1](https://saksham3736.github.io/mathematics/)|
 |:---------------------------------------------------------:|
 |[Assignment 2](https://saksham3736.github.io/mathematics3/)|
 |[Assignment 3](https://saksham3736.github.io/mathematics2/)|
